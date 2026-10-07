@@ -1,0 +1,6 @@
+{
+  "name": "CNC Vector QR Studio",
+  "description": "Precision vector QR code generator for CNC laser and router engraving, kerf compensation, multi-layer CAM cutting paths, and custom center branding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
